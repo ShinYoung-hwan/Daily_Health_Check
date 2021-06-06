@@ -1,0 +1,106 @@
+2021/05/30
+Name: Shin
+Age: 21
+Number of symptoms: 8
+Symptoms:
+ - Fever
+ - Loss of appetite
+ - Cough
+ - Loss of smell
+ - Shortness of breath
+ - fatigue
+ - Coughing up sputum
+ - Muscle aches and pain
+Result: 
+ - You must stay at home!!
+
+2021/05/31
+Name: Shin
+Age: 21
+Number of symptoms: 8
+Symptoms:
+ - Fever
+ - Loss of appetite
+ - Cough
+ - Loss of smell
+ - Shortness of breath
+ - fatigue
+ - Coughing up sputum
+ - Muscle aches and pain
+Result: 
+ - You must stay at home!!
+
+2021/06/01
+Name: Shin
+Age: 21
+Number of symptoms: 8
+Symptoms:
+ - Fever
+ - Loss of appetite
+ - Cough
+ - Loss of smell
+ - Shortness of breath
+ - fatigue
+ - Coughing up sputum
+ - Muscle aches and pain
+Result: 
+ - You must stay at home!!
+
+2021/06/02
+Name: Shin
+Age: 21
+Number of symptoms: 3
+Symptoms:
+ - Fever
+ - Cough
+ - fatigue
+Result: 
+ - You must stay at home!!
+
+2021/06/03
+Name: Shin
+Age: 21
+Number of symptoms: 4
+Symptoms:
+ - Fever
+ - Cough
+ - fatigue
+ - Coughing up sputum
+Result: 
+ - You must stay at home!!
+
+2021/06/04
+Name: Shin
+Age: 25
+Number of symptoms: 1
+Symptoms:
+ - Fever
+Result: 
+You can go out today!!
+
+2021/06/05
+Name: Shin
+Age: 21
+Number of symptoms: 2
+Symptoms:
+ - Fever
+ - Cough
+Result: 
+ - You must stay at home!!
+
+2021/06/06
+Name: Shin
+Age: 21
+Number of symptoms: 8
+Symptoms:
+ - Fever
+ - Loss of appetite
+ - Cough
+ - Loss of smell
+ - Shortness of breath
+ - fatigue
+ - Coughing up sputum
+ - Muscle aches and pain
+Result: 
+ - You must stay at home!!
+
