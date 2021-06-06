@@ -1,0 +1,9 @@
+*.pdf
+
+*.docx
+
+*./bin
+
+*.mp4
+
+*.txt
