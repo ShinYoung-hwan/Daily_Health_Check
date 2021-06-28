@@ -2,7 +2,7 @@
 
 *.docx
 
-*./bin
+/bin
 
 *.mp4
 
